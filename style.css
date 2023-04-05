@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin-top: 20%;
+
+}
+
+.container h1 {
+    font-size: 100px;
+    color: #964b00;
+}
+
+.container p {
+    font-size: 40px;
+    color: white;
+}
+
+.navbar {
+    color: #964b00;
+}
+
+body {
+    background-image: url(images/Homebg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
